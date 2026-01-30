@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj": {}
+    "/home/runner/work/tercera-tarea-inggary/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj": {}
   },
   "projects": {
-    "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj": {
+    "/home/runner/work/tercera-tarea-inggary/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
+        "projectUniqueName": "/home/runner/work/tercera-tarea-inggary/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj",
         "projectName": "EjerciciosCSharp",
-        "projectPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/",
+        "projectPath": "/home/runner/work/tercera-tarea-inggary/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/tercera-tarea-inggary/tercera-tarea-inggary/EjerciciosCSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
