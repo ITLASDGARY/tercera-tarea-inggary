@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2XAd0bMeBaE=",
+  "dgSpecHash": "nTiI0r23KAQ=",
   "success": true,
-  "projectFilePath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
+  "projectFilePath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",

@@ -31,8 +31,8 @@ namespace EjerciciosCSharp
             // Console.WriteLine($"Suma total: {Ejercicios.SumaAcumulativa(numeros.ToArray())}");
 
             // Ejercicio 4: Contador de Pares
-            // Console.WriteLine("Números pares del 0 al 50:");
-            // Console.WriteLine(Ejercicios.ContadorDePares());
+            Console.WriteLine("Números pares del 0 al 50:");
+            Console.WriteLine(Ejercicios.ContadorDePares());
         }
     }
 }

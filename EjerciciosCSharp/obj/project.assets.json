@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
+      "projectUniqueName": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj",
       "projectName": "EjerciciosCSharp",
-      "projectPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj",
+      "projectPath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/obj/",
+      "outputPath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

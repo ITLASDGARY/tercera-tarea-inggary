@@ -898,11 +898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
+      "projectUniqueName": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
       "projectName": "EjerciciosCSharp.Tests",
-      "projectPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
+      "projectPath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp.Tests/EjerciciosCSharp.Tests.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp.Tests/obj/",
+      "outputPath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -917,8 +917,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj": {
-              "projectPath": "/workspaces/Tarea_dia_3_c/EjerciciosCSharp/EjerciciosCSharp.csproj"
+            "/workspaces/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj": {
+              "projectPath": "/workspaces/tercera-tarea-inggary/EjerciciosCSharp/EjerciciosCSharp.csproj"
             }
           }
         }
